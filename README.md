@@ -1,4 +1,6 @@
-## Testing features from NodeJS
+## Custom testing features of NodeJS
+
+This is only self-learning repository.
 
 ### Stuff I want to learn
 * Express
